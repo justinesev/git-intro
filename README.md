@@ -1,2 +1,2 @@
 # git-intro
-Template Repository for git introductory lesson
+Justine's Repository for git mastery. Motorcycles are awesome.
